@@ -6,4 +6,5 @@ Duisk 是一个更好用的 OpenList 全平台原生客户端，基于 Flutter /
 - 主机信息保存
 - 自定义端口支持
 - 主机连通性检查
+- 震动反馈
 - 基于 WebView 的 OpenList 访问
